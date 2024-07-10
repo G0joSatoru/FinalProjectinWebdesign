@@ -1,0 +1,83 @@
+html{
+    /* height: 2000px; */
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 160px;
+    color: white;
+}
+body{
+    padding: 12rem 5rem 160px 5rem;
+    background-color: #1b1b1b; 
+}
+.navbar-brand {
+    position: relative;
+    
+    width: 170px;
+    left: 15px;
+    background-size: contain;
+
+}
+.footer-brand{
+
+    position: relative;
+    
+    width: 170px;
+    
+    background-size: contain;
+}
+.navbar-brand img{
+
+    
+}
+.body-theme{
+
+    background-color: #1b1b1b;
+}
+.navbar-theme{
+
+    background-color: #292929 ;
+}
+.navbar{
+
+    background-color: #292929 ;
+
+}
+.white-cover {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(255, 0, 0, .5);
+}
+
+#banner{
+
+    background: linear-gradient(0deg, orange, orange);
+}
+.bg-gradient-lorem{
+
+    background: linear-gradient(0deg, rgb(230, 15, 8), rgb(148, 22, 165));
+}
+.bg-gradient-body{
+
+    background: linear-gradient(0deg, rgb(55, 0, 255), rgb(0, 2, 2));
+}
+.bg-gradient-news{
+
+    background: linear-gradient(0deg, rgb(255, 0, 234), rgb(0, 2, 2));
+}
+.bg-gradient-FAQ{
+
+    background: linear-gradient(0deg, rgb(0, 255, 55), rgb(79, 3, 141));
+}
+.bg-gradient-Help{
+
+    background: linear-gradient(0deg, rgb(219, 223, 3), rgb(7, 7, 7));
+}
+.bg-gradient-ABOUT{
+
+    background: linear-gradient(0deg, rgb(255, 17, 0), rgb(0, 2, 2));
+}
